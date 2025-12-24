@@ -1,13 +1,13 @@
-#$ pkg update && pkg upgrade -y
+$ pkg update && pkg upgrade -y
 
-#$ pkg install python3
+$ pkg install python3
 
-#$ pkg install git
+$ pkg install git
 
-#$ git clone https://github.com/arman77887/HCS_SMS.git
+$ git clone https://github.com/arman77887/HCS_SMS.git
 
-#$ cd HCS_SMS
+$ cd HCS_SMS
 
-#$ ls 
+$ ls 
 
-#$ python spam_msg.py
+$ python spam_msg.py
